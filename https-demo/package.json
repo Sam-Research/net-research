@@ -1,0 +1,16 @@
+{
+  "name": "https-demo",
+  "version": "1.0.0",
+  "description": "net;koa;http;https",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "zysam",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.5",
+    "request": "^2.80.0"
+  }
+}
